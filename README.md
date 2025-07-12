@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/george-abaidoo/LABURL)
+  - [Active Directory Home Lab](https://github.com/george-abaidoo/ActiveDirectoryLab)
   - [Hello World](https://github.com/george-abaidoo/LABURL)
 
 <h2>👨‍💻 Software Development Projects</h2>
