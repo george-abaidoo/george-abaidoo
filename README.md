@@ -10,8 +10,13 @@
 
 <h2>📜 Certifications </h2>
 
-  - [AWS Certified Cloud Practitioner](https://github.com/george-abaidoo/LABURL)
-  - [AWS Certified Solution Architect](https://github.com/george-abaidoo/LABURL)
+  - [AWS Certified Cloud Practitioner](https://aws.amazon.com/verification)
+
+    Validation Number: 2a448b4a9ef14df3abe104166e7ec1d8
+    
+  - [AWS Certified Solution Architect](https://aws.amazon.com/verification)
+
+    Validation Number: 56087d53cbe34293969addc49d310030
 
 
 
