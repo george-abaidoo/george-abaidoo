@@ -2,7 +2,7 @@
 
 <h2>🛡️ Cybersecurity & 💻 Software Development Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/george-abaidoo/ActiveDirectoryLab)
+  - [SIEM & XDR Lab with Wazuh](https://github.com/george-abaidoo/Wazuh-SIEM-XDR-Lab)
   - [Anti-Stalker App for AirTags](https://github.com/george-abaidoo/Anti-Stalking-System-Apple-AirTags)
  
 <h2>🤖 AI Automations Projects</h2>
