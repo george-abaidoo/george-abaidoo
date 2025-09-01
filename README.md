@@ -4,9 +4,7 @@
 
   - [Active Directory Home Lab](https://github.com/george-abaidoo/ActiveDirectoryLab)
   - [Anti-Stalker App for AirTags](https://github.com/george-abaidoo/LABURL)
-  - [My Stat Card App](https://github.com/george-abaidoo/LABURL)
-  - [Hello World](https://github.com/george-abaidoo/LABURL)
-
+ 
 <h2>🤖 AI Automations Projects</h2>
 
 
