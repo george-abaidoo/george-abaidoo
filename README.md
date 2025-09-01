@@ -1,23 +1,20 @@
 <h1>Hi, I'm George! </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>🛡️ Cybersecurity & 💻 Software Development Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/george-abaidoo/ActiveDirectoryLab)
+  - [Anti-Stalker App for AirTags](https://github.com/george-abaidoo/LABURL)
+  - [My Stat Card App](https://github.com/george-abaidoo/LABURL)
   - [Hello World](https://github.com/george-abaidoo/LABURL)
 
-<h2>👨‍💻 Software Development Projects</h2>
+<h2>🤖 AI Automations Projects</h2>
 
-  - [My Stat Card App](https://github.com/george-abaidoo/LABURL)
-  - [Anti-Stalker App for AirTags](https://github.com/george-abaidoo/LABURL)
 
-<h2>👨‍💻 Certifications </h2>
+<h2>📜 Certifications </h2>
 
   - [AWS Certified Cloud Practitioner](https://github.com/george-abaidoo/LABURL)
   - [AWS Certified Solution Architect](https://github.com/george-abaidoo/LABURL)
 
-<h2>📺 Video Demonstrations</h2>
-
- - [Tutorial - Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 
 <h2> 🤳 Connect with me:</h2>
