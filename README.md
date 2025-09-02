@@ -7,8 +7,8 @@
  
 <h2>🤖 AI Automations Projects</h2>
 
- - [Social Media Manager Automation](https://github.com/george-abaidoo/Wazuh-SIEM-XDR-Lab)
- - [Travel Planner Automation](https://github.com/george-abaidoo/Anti-Stalking-System-Apple-AirTags)
+ - [Social Media Manager Automation](https://github.com/george-abaidoo/Social-Media-Manager-Automation)
+ - [Travel Planner Automation](https://github.com/george-abaidoo/Travel-Planner-Automation)
  
 
 <h2>📜 Certifications </h2>
